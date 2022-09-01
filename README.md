@@ -19,4 +19,4 @@
 - Windows 100% scaling on 1080p resolution
 
 # Links
-[Demo](https://restorant-page-o101.netlify.app/)
+[Demo](https://crypto-app-007.netlify.app/)
